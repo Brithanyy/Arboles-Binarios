@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1697913845 source:c:\users\brisa ortiz\onedrive\escritorio\laboratorio ii\arboles binarios\main.c
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+	<string.h>
+
+1698327955 source:c:\users\brisa ortiz\onedrive\escritorio\laboratorio ii\tp 5 arboles binarios\main.c
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+	<string.h>
+
